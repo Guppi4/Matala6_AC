@@ -37,10 +37,6 @@ elect_next_budget_item(votes, balances, costs)
 
 * Python 3.10 
 
-**Contributing**
-
-We welcome contributions! Feel free to open pull requests or issues for suggestions.
-
 **Additional Notes**
 
 * This implementation demonstrates a single step within the Fragman method. A complete budget allocation process would likely involve multiple iterations of this function.
