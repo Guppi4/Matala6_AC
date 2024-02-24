@@ -1,6 +1,3 @@
-Here's a README.md designed for your GitHub repository, explaining the Fragman budget allocation code.
-
-**README.md**
 
 **Fragman Budget Allocation Method**
 
